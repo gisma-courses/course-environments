@@ -1,4 +1,4 @@
-![Course Header](https://gisma-courses.github.io/course-environments/assets/images/working-environment.png)
+![Course Header](https://github.com/gisma-courses/course-environments/blob/master/docs/assets/images/working-environment.png)
 
 
 
