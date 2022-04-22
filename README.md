@@ -1,3 +1,7 @@
+![Course Header](https://gisma-courses.github.io/course-environments/assets/images/working-environment.png.jpg)
+
+
+
 This course is brought to you from the working group on Geoinformatics Science of the [Department of Geography](https://www.uni-marburg.de/fb19).
 
 
